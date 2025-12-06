@@ -75,14 +75,16 @@ Submission Instructions
 1.	Label all 200 encounters in annotated_label column
 2.	Save as annotations_completed.csv (CSV format)
 3.	Ensure no blank cells or typos
-4.	Email file to project team:
-
-o	alexgrg@umich.edu
+4.	Email file to project team: alexgrg@umich.edu
 ________________________________________
 
 License
 
+
 •	Original dataset: Public domain (UCI)
-•	Annotations and materials: © 2025–2026 Alex Gurung & Chandra Kala Rai, University of Michigan–Flint
+
+•	Annotations and materials: 
+© 2025–2026 Alex Gurung & Chandra Kala Rai, University of Michigan–Flint
+
 •	For educational and research purposes only. See LICENSE.txt for details.
 

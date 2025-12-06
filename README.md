@@ -1,5 +1,7 @@
 Hospital Readmission Annotation Dataset
+
 Overview
+
 This repository contains materials for annotating 200 de-identified hospital encounters to predict 30-day readmission risk for patients with diabetes.
 The goal is to create a high-quality labeled dataset (YES/NO) to support machine learning and interpretability research.
 Dataset Source: Diabetes 130-US Hospitals Dataset (UCI/Kaggle)
@@ -54,7 +56,6 @@ Submission Instructions
 3.	Ensure no blank cells or typos
 4.	Email file to project team:
 o	alexgrg@umich.edu
-o	ckrai@umich.edu
 ________________________________________
 License
 •	Original dataset: Public domain (UCI)

@@ -1,0 +1,22 @@
+HOSPITAL READMISSION ANNOTATED DATA LICENSE
+© 2025–2026 Alex Gurung, Chandra Kala Rai, University of Michigan–Flint
+Dataset: Hospital Readmission Annotated Dataset (ARI 510, UM-Flint, 2025)
+Original data source: Diabetes 130-US Hospitals (UCI/Kaggle, public domain)
+________________________________________
+License Terms
+You may:
+•	Use, copy, and share this dataset for educational and research purposes
+•	Publish results with proper attribution
+•	Create derivative works for educational/research purposes
+You must:
+•	Attribute this dataset:
+“Annotated dataset from ARI 510 – Hospital Readmission Project, University of Michigan–Flint (2025).”
+•	Cite the original dataset: Strack et al., 2014 (UCI / BioMed Research International)
+•	Indicate any changes you make
+You may not:
+•	Use for commercial purposes
+•	Use for clinical or medical decision-making
+•	Attempt to re-identify patients or violate data ethics
+Disclaimer: Provided for educational and research use only. No warranties. Not validated for medical use. Users are responsible for ethical compliance and privacy protection.
+Contact for permissions/questions: [alexgrg@umich.edu]
+

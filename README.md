@@ -1,6 +1,3 @@
-# Hospital-Readmission-Annotation
-Annotated dataset and instructions for 30-day hospital readmission task
-
 Hospital Readmission Annotation Dataset
 1. Dataset Description
 •	Source: Diabetes 130-US Hospitals (UCI/Kaggle), de-identified

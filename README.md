@@ -3,18 +3,23 @@ Hospital Readmission Annotation Dataset
 Overview
 
 This repository contains materials for annotating 200 de-identified hospital encounters to predict 30-day readmission risk for patients with diabetes.
+
 The goal is to create a high-quality labeled dataset (YES/NO) to support machine learning and interpretability research.
+
 Dataset Source: Diabetes 130-US Hospitals Dataset (UCI/Kaggle)
 Subset: 200 selected encounters
 ________________________________________
 Annotation Labels
 •	YES – Patient readmitted within 30 days (<30)
+
 •	NO – Patient not readmitted within 30 days (>30 or NO)
+
 For full rules, examples, and edge cases, see the Annotation Guidelines PDF.
 ________________________________________
 Annotation Interface
 •	Tool: Spreadsheet (Excel / Google Sheets)
 •	Template: annotation_template.csv
+
 •	Steps:
 1.	Open annotation_template.csv
 2.	Count strong risk factors (see Guidelines)
